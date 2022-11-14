@@ -1,0 +1,12 @@
+h1 {
+  color: #2c3333;
+}
+
+h2 {
+  padding-top: 15px;
+}
+
+.container {
+  margin-top: 35px;
+  border: 1px solid black;
+}
