@@ -7,6 +7,10 @@ h2 {
 }
 
 .container {
-  margin-top: 35px;
+  margin-top: 45px;
   border: 1px solid black;
+}
+
+footer {
+  margin-left: 80px;
 }
